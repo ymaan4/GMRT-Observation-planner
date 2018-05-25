@@ -10,8 +10,9 @@ import optparse
 
 
 __author__  = "Yogesh Maan"
-__license__ = "GNU GPL"
 __version__ = "1.0.1"
+__license__ = "GNU GPL"
+### Copyright (C) 2018  Yogesh Maan
 
 #### function to write a block of commands ####
 def write_block(src,stype,pcode,time,ofile):   # time in minutes
